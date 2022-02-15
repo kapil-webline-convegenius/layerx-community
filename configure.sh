@@ -17,3 +17,4 @@ sed -i "s/<GOOGLE_API_KEY>/$ESCAPED_GOOGLE_API_KEY/" layerx-angular-frontend/src
 #Base url to sync-tool
 ESCAPED_BASE_URL=$(printf '%s\n' "$BASE_URL" | sed -e 's/[\/&]/\\&/g')
 sed -i "s/<BASE_URL>/$ESCAPED_BASE_URL/" layerx-sync-tool/sync-tool/sync.py
+
