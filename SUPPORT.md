@@ -1,6 +1,6 @@
 # Need Help ?
 
-This article explains where to get help with layerx.ai.
+This article explains where to get help with [layerx.ai][layerx.ai].
 Please read through the following guidelines.
 
 > 👉 **Note**: before participating in our community, please read our
@@ -30,11 +30,15 @@ Here are some tips:
 
 ## Supporters
 
-Contact us through following email address for help.\
-kelum@zoomi.ca\
-isuruj@zoomi.ca\
-dinusha@zoomi.ca\
-tharindu@zoomi.ca\
+Contact us through following email address for help.
+- kelum@zoomi.ca
+- isuruj@zoomi.ca
+- dinusha@zoomi.ca
+- tharindu@zoomi.ca
+- isuru@zoomi.ca
+- lahiru@zoomi.ca
+- chathushka@zoomi.ca
+- chamath@zoomi.ca
 
 
 ## Contributions
