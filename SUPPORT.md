@@ -35,6 +35,9 @@ Contact us through following email address for help.
 - isuruj@zoomi.ca
 - dinusha@zoomi.ca
 - tharindu@zoomi.ca
+- isuru@zoomi.ca
+- lahiru@zoomi.ca
+- chathushka@zoomi.ca
 
 
 ## Contributions
