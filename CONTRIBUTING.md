@@ -25,7 +25,10 @@ We have created a issue template to help you with getting best out of the layerx
 reporting a issue. 
 
 ## Pull request template 
-We have created a pull request template to get a better understanding of the changes/new features you have made to improve the layerx.ai. 
+When creating pull pull request please adhere to following guideline.
+- A reference to a related issue in your repository.
+- A description of the changes proposed in the pull request.
+- @mentions of the person or team responsible for reviewing proposed changes. 
 
 ## Committing code
 Make sure that you contribute your changes to the correct repository. And always commit with proper commit massages.
