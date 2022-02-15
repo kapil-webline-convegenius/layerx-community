@@ -67,7 +67,7 @@ apt install git-all
 ## Clone Repository
 ### [layerx-community](https://github.com/LayerX-AI/layerx-community)
 ```bash
-git clone git@github.com:LayerX-AI/layerx-community.git
+git clone https://github.com/LayerX-AI/layerx-community.git
 ```
 
 
