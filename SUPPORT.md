@@ -38,6 +38,7 @@ Contact us through following email address for help.
 - isuru@zoomi.ca
 - lahiru@zoomi.ca
 - chathushka@zoomi.ca
+- chamath@zoomi.ca
 
 
 ## Contributions
