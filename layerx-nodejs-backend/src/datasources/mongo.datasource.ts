@@ -18,7 +18,7 @@ const config = {
   host: process.env.DB_HOST ?? 'localhost',
   port: +(process.env.DB_PORT ?? 27017),
   user: process.env.DB_USER,
-  password: encodeURIComponent(process.env.DB_PASS),
+  password: encodeURIComponent(process.env.DB_PASS ?? 'defaultPassword'),
   database: process.env.DATABASE,
   useNewUrlParser: false,
 };
