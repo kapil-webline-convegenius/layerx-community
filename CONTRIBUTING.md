@@ -31,7 +31,7 @@ We have created a pull request template to get a better understanding of the cha
 Make sure that you contribute your changes to the correct repository. And always commit with proper commit massages.
 
 ## Additional questions
-If you have any questions that aren't answered in these guidelines, please find us in the #contributor channel of the [Layerx.ai Slack Community][https://layerx-hq.slack.com/].
+If you have any questions that aren't answered in these guidelines, please find us in the #contributor channel of the [Layerx.ai Slack Community](https://layerx-hq.slack.com/).
 
 
 

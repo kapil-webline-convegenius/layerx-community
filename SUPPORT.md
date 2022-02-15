@@ -31,9 +31,9 @@ Here are some tips:
 ## Supporters
 
 Contact us through following email address for help.\
-- kelum@zoomi.ca\
-- isuruj@zoomi.ca\
-- dinusha@zoomi.ca\
+- kelum@zoomi.ca
+- isuruj@zoomi.ca
+- dinusha@zoomi.ca
 - tharindu@zoomi.ca
 
 
