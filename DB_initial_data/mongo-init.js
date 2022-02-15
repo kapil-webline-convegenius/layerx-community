@@ -11,6 +11,23 @@ db.createUser(
 //insert masterData
 db.getCollection('MasterData').insert({
     "_id" : ObjectId("619dd3ff8c115a50e135b303"),
+    "exportFormats" : {
+        "YOLO" : {
+            "fileType" : "XML",
+            "name" : "Yolo",
+            "category" : "category1"
+        },
+        "YOLO_DARK" : {
+            "fileType" : "XML",
+            "name" : "Yolo Darknet",
+            "category" : "category2"
+        },
+        "YOLO_KERAS" : {
+            "fileType" : "txt",
+            "name" : "Yolo Keras",
+            "category" : "category2"
+        }
+    },
     "augmentationTypes" : {
         "image" : [ 
             {
