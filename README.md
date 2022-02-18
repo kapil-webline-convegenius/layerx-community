@@ -1,5 +1,12 @@
 # The AI Data Platform
 
+[![GitHub stars](https://img.shields.io/github/stars/LayerX-AI/layerx-community?style=social)](https://github.com/LayerX-AI/layerx-community/stargazers)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/layerxai?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
+[![Generic badge](https://img.shields.io/badge/python-3.8.10-blue.svg)](https://www.python.org/downloads/release/python-3810/)
+[![Generic badge](https://img.shields.io/badge/license-MIT&ELv2-<COLOR>.svg)](https://github.com/LayerX-AI/layerx-community/blob/master/LICENSE)
+
+
+
 ![LayerX.ai](images/Layerx_logo_purple.svg)
 ### Annotate, Manage and Deploy Training Data  
 End-to-end AI data management platform that helps ML teams to annotate, manage and deploy training data at scale.  
