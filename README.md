@@ -9,7 +9,7 @@
 
 ![LayerX.ai](images/Layerx_logo_purple.svg)
 ### Annotate, Manage and Deploy Training Data  
-End-to-end AI data management platform that helps ML teams to annotate, manage and deploy training data at scale.  
+The end-to-end AI data management platform that helps ML teams to annotate, manage and deploy training data at scale.  
 <br/><br/>
 ![projects](images/Layerx_projects.png?raw=true)
 <br/><br/>
