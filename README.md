@@ -9,38 +9,38 @@
 
 ![LayerX.ai](images/Layerx_logo_purple.svg)
 ### Annotate, Manage and Deploy Training Data  
-The end-to-end AI data management platform that helps ML teams to annotate, manage and deploy training data at scale.  
+The end-to-end AI data management platform that helps ML teams annotate, manage and deploy training data at scale.  
 <br/><br/>
 ![projects](images/Layerx_projects.png?raw=true)
 <br/><br/>
 <br/><br/>
 ![annotationtool](images/Layerx_tool.png?raw=true)
 <br/><br/>
-LayerX is on a mission to accelerate AI application development by empowering ML Team with modern tools.
+LayerX is on a mission to accelerate AI application development by empowering ML teams with modern tools.
 <br/><br/>
 ## Features
-* Image and video annotations with multiple annotations types.  Just drag and drop any image or video file and start annotating in a minutes.
-* Class and Attribute level annotations. For example, class can be Vehicle, attributes can be car, van, truck.
-* Annotation task management. Byte size tasks make it easy to annotate large volumes of data at scale.
-* Dataset management. Create, manage and deploy training datasets from annotated data with version control in place.
-* Data Augmentation. Increase your dataset size by adding slightly modified copies via the built-in augmentation functions.
-* Export Dataset to the training machine with annotations easily using the dataset sync tool.
+* Image and video annotations with multiple annotation types.  Just drag and drop any image or video file and start annotating in minutes.
+* Class and Attribute level annotations. For example, class can be Vehicle, attributes can be Car, Van, Truck.
+* Annotation task management. Byte size tasks make it easy to annotate large volumes of data at scale with high accuracy.
+* Dataset management. Create, manage and deploy training datasets from annotated data. Version control your datasets to track changes over time.
+* Data Augmentation. Increase your dataset size by adding slightly modified copies via built-in augmentation functions like crop, rotation, flip, blur and more.
+* Export your annotated dataset to the training machine in a single click using the dataset sync tool.
 
 <br/><br/>
-Install Open Source version using below instructions. Try LayerX cloud version from here [LayerX Cloud](https://layerx.ai)
+Install the Open Source version using the instructions below. If you need a fully hosted version of LayerX you can start a free trial of [LayerX Cloud](https://layerx.ai)
 <br/><br/>
 ## High Level System Architecture
 
 ![Component Structure diagram](images/Layerx_components.png?raw=true  "Component Structure")
 
-**Backend - annotation manager (NodeJS) :**
-* REST API endpoint for Annotation tool frontend
-* Communicate with Python backend (Flask App) to offload background tasks such as annotation task generation and dataset creation
+**Backend - Annotation Manager (NodeJS) :**
+* REST API endpoint for the Annotation tool frontend
+* Communicates with a Python backend (Flask App) to offload background tasks such as annotations and dataset creation
 <br/><br/>
 
 **Backend - data processor (Python Flask) :**
-* Create annotation tasks from uploaded videos or images
-* Create Datasets and augment images
+* Creates annotation tasks from uploaded videos or images
+* Creates datasets and augments images
 <br/><br/>
 
 **Frontend- (Angular Web) :**
@@ -122,14 +122,9 @@ docker-compose up
 ```
 
 <br/><br/>
-### LayerX system is now ready to use
+### LayerX is now ready to use :)
 <br/><br/>
 
-#### Default LayerX Credentials
-* Username: 	admin@layerx.local.ai
-* Password:	YourPassWord123
-
-<br/><br/>
 
 ## Additional Notes
 
