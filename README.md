@@ -125,6 +125,9 @@ docker-compose up
 ### LayerX is now ready to use :)
 <br/><br/>
 
+**Default account :**
+* Username: admin@layerx.local.ai
+* Password: YourPassWord123
 
 ## Additional Notes
 
